@@ -1,2 +1,3 @@
-# qt-examples
-Qt examples
+# Qt Course Support Examples
+
+(c) Kirill Krinkin
